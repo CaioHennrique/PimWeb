@@ -54,23 +54,23 @@ O desafio deste projeto é desenvolver um sistema de chamados inteligente, que p
 ## Tarefas:
 
 
-## --- Tecnologias Utilizadas ---
-  •	HTML, CSS, JavaScript
-	•	Node.js / Express
-	•	Banco de Dados MySQL
-	•	GitHub / GitHub Projects
+## - Tecnologias Utilizadas -
+  •	HTML, CSS, JavaScript <br/>
+	•	Node.js / Express<br/>
+	•	Banco de Dados MySQL<br/>
+	•	GitHub / GitHub Projects<br/>
 	•	Ferramentas de prototipação (Figma, Miro)
 
  ## --- Como executar ---
 
- # Clonar o repositório
+  • Clonar o repositório
 git clone https://github.com/CaioHennrique/PimWeb.git
 
-# Entrar na pasta
+  • Entrar na pasta
 cd PimWeb
 
-# Instalar dependências (se usar Node.js)
+  • Instalar dependências (se usar Node.js)
 npm install
 
-# Rodar o projeto
+  • Rodar o projeto
 npm start
