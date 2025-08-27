@@ -1,16 +1,31 @@
-## Integrantes
-- [Thor de Oliveira Morciani - G96DFD3](https://github.com/ThorMorciani)
-- [Caio Henrique Barbosa Santos - G976690](https://github.com/CaioHennrique)
-- [Daniel Fagundes da Mota Filho - G97BJA0](https://github.com/DANFAGUNDES0)
-- [Murilo Câmara da Silva – G9843G0](https://github.com/MuriloCSilva)
-- [Joel Rodrigues Pereira - R0507H0](https://github.com/JoelRP00)
-- [João Pedro Costa Vieira - G956HJ7](https://github.com/JoaoPcvv)
+## Iassist
 
-## [User Stories](https://github.com/ThorMorciani/PimWeb/blob/main/Analise%20POO/User%20Stories.txt)
+## Desafio
 
-## [Requisitos](https://github.com/ThorMorciani/PimWeb/blob/main/Analise%20POO/Requisitos.txt)
+Atualmente, empresas e usuários enfrentam dificuldades na abertura e gestão de chamados de suporte técnico.
+Os problemas de hardware e software muitas vezes não são classificados corretamente, o que causa: 
 
-## --- Backlog ---
+• Atrasos na resolução dos chamados <br/>
+• Retrabalho para a equipe de TI<br/>
+• Acúmulo de chamados pendentes<br/>
+• Insatisfação dos usuários<br/>
+
+O desafio deste projeto é desenvolver um sistema de chamados inteligente, que permita:
+
+• Registrar e acompanhar chamados de forma organizada <br/>
+• Garantir níveis de acesso diferenciados para usuários, técnicos e administradores<br/>
+• Integrar uma IA capaz de sugerir soluções automáticas com base no histórico de chamados, agilizando a triagem e reduzindo tempo de atendimento
+
+
+## --- Backlog  do Produto ---
+
+  •	Estruturação do repositório. <br/> 
+  •	Criação da arquitetura inicial do projeto.<br/>
+  •	Desenvolvimento do front-end.<br/> 
+  •	Implementação do back-end. <br/>
+	•	Integração com banco de dados. <br/>
+	•	Testes e homologação. <br/>
+	•	Documentação final
 
 ## Sprint 1: 31/03/2025 - 07/04/2025
 ## Tarefas:
@@ -18,32 +33,44 @@
 2. Criar os repositórios no Git.
 3. Iníciar a documentação do sistema.
 
-## Sprint 2: 07/04/2025 - 14/04/2025
+## Sprint 2: 25/08/2025 - 31/08/2025
 ## Tarefas:
-1. Criar o diagrama de banco de dados.
-2. Criar o diagrama de casos de uso.
+1. Criar tela de causas raiz
+2. Criar tela de logs
+3. criacao de ticket
 
-## Sprint 3: 14/04/2025 - 21/04/2025
+## Sprint 3: 01/09/2025 - 07/09/2025
 ## Tarefas:
-1. Criar o diagrama de classes.
-2. Corrigir casos de uso.
-3. Validar documentação com os professores. 
 
-## Sprint 4: 21/04/2025 - 28/04/2025
+## Sprint 4: 08/09/2025 - 14/09/2025
 ## Tarefas:
-1. Criar o diagrama de casos de uso descritivos.
-2. Criar diagrama de sequência.
-3. Validar documentação com os professores.
 
-## Sprint 5: 28/04/2025 - 05/05/2025 /n
+
+## Sprint 5: 15/09/2025 - 21/09/2025 /n
 ## Tarefas:
-1. Criar a planilha de testes unitários.
-2. Validar protótipo com professor responsável.
-3. Validar documentação com os professores.
 
-## Sprint 6: 05/05/2025 - 12/05/2025
+
+## Sprint 6: 22/09/2025 - 29/09/2025
 ## Tarefas:
-1. Validar protótipo com professor responsável.
-2. Validar documentação com os professores.
 
-## --- FIM Backlog ---
+
+## --- Tecnologias Utilizadas ---
+  •	HTML, CSS, JavaScript
+	•	Node.js / Express
+	•	Banco de Dados MySQL
+	•	GitHub / GitHub Projects
+	•	Ferramentas de prototipação (Figma, Miro)
+
+ ## --- Como executar ---
+
+ # Clonar o repositório
+git clone https://github.com/CaioHennrique/PimWeb.git
+
+# Entrar na pasta
+cd PimWeb
+
+# Instalar dependências (se usar Node.js)
+npm install
+
+# Rodar o projeto
+npm start
