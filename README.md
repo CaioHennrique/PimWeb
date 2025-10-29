@@ -1,4 +1,4 @@
-## AIssist
+
 <p align="center">
     <img src="Frontend/AIssist/src/assets/logo.png" alt="logo da AIssist" width="200">
     <h2 align="center"> AIssist</h2>
