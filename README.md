@@ -1,76 +1,59 @@
-## Iassist
+## AIssist
+<p align="center">
+    <img src="Frontend/AIssist/src/assets/logo.png" alt="logo da AIssist" width="200">
+    <h2 align="center"> AIssist</h2>
+</p>
 
-## Desafio
+<p align="center">
+    <a href="#descricao">Descrição do Projeto</a> |
+    <a href="#backlog">Backlog</a> |
+    <a href="#cronograma">Cronograma do Projeto e Tabela Descritiva</a> |
+    <a href="#tecnologias">Tecnologias</a> |
+    <a href="#estrutura">Estrutura do Projeto</a> |
+    <a href="#manual">Manual de Instalação</a> |
+    <a href="#documentacao">Documentação</a> |
+    <a href="#integrantes">Integrantes</a>
+</p>
 
-Atualmente, empresas e usuários enfrentam dificuldades na abertura e gestão de chamados de suporte técnico.
-Os problemas de hardware e software muitas vezes não são classificados corretamente, o que causa: 
-
-• Atrasos na resolução dos chamados <br/>
-• Retrabalho para a equipe de TI<br/>
-• Acúmulo de chamados pendentes<br/>
-• Insatisfação dos usuários<br/>
-
-O desafio deste projeto é desenvolver um sistema de chamados inteligente, que permita:
-
-• Registrar e acompanhar chamados de forma organizada <br/>
-• Garantir níveis de acesso diferenciados para usuários, técnicos e administradores<br/>
-• Integrar uma IA capaz de sugerir soluções automáticas com base no histórico de chamados, agilizando a triagem e reduzindo tempo de atendimento
-
-
-## --- Backlog  do Produto ---
-
-  •	Estruturação do repositório. <br/> 
-  •	Criação da arquitetura inicial do projeto.<br/>
-  •	Desenvolvimento do front-end.<br/> 
-  •	Implementação do back-end. <br/>
-	•	Integração com banco de dados. <br/>
-	•	Testes e homologação. <br/>
-	•	Documentação final
-
-## Sprint 1: 31/03/2025 - 07/04/2025
-## Tarefas:
-1. Levantar os requisitos funcionais e não funcionais do projeto.
-2. Criar os repositórios no Git.
-3. Iníciar a documentação do sistema.
-
-## Sprint 2: 25/08/2025 - 31/08/2025
-## Tarefas:
-1. Criar tela de causas raiz
-2. Criar tela de logs
-3. criacao de ticket
-
-## Sprint 3: 01/09/2025 - 07/09/2025
-## Tarefas:
-
-## Sprint 4: 08/09/2025 - 14/09/2025
-## Tarefas:
+## Descrição do Projeto <a id="descricao"></a>
+AIssist é um aplicativo de gestão de chamados que utiliza Inteligência Artificial para tornar o suporte mais ágil, inteligente e eficiente. A plataforma permite gerenciar usuários com diferentes perfis e permissões, sugere soluções rápidas por meio de IA, possibilita que múltiplos chamados sejam atendidos ao mesmo tempo e envia notificações automáticas para manter equipe e requerentes sempre atualizados. Além disso, oferece relatórios detalhados de históricos, garante segurança dos dados e conta com uma interface moderna, responsiva e compatível com os principais navegadores. Desenvolvido com foco em boas práticas.
 
 
-## Sprint 5: 15/09/2025 - 21/09/2025 /n
-## Tarefas:
+## 📋 Backlog do Projeto <a id="backlog"></a>
+[Backlog](./docs/UserStories.txt)
 
 
-## Sprint 6: 22/09/2025 - 29/09/2025
-## Tarefas:
+## ⏰ Cronograma do Projeto e Tabela Descritiva <a id="cronograma"></a>
+[Cronograma de Evolução do Projeto](./docs/Cronograma%20de%20Evolução%20do%20Projeto.md)
 
 
-## - Tecnologias Utilizadas -
-  •	HTML, CSS, JavaScript <br/>
-	•	Node.js / Express<br/>
-	•	Banco de Dados MySQL<br/>
-	•	GitHub / GitHub Projects<br/>
-	•	Ferramentas de prototipação (Figma, Miro)
+## 💻 Tecnologias <a id="tecnologias"></a>
+[Tecnologias](./docs/Tecnologias%20Utilizadas.md)
 
- ## --- Como executar ---
 
-  • Clonar o repositório
-git clone https://github.com/CaioHennrique/PimWeb.git
+## 💻 Estrutura do Projeto <a id="estrutura"></a>
+[Estrutura do Projeto]("#")
 
-  • Entrar na pasta
-cd PimWeb
 
-  • Instalar dependências (se usar Node.js)
-npm install
+## 📖 Manual de Instalação <a id="manual"></a>
+[Manual de Instalação](./docs/Manual%20de%20Instalação.md)
 
-  • Rodar o projeto
-npm start
+
+## 📘 Documentação <a id="documentacao"></a>
+- [Documentação](https://unipead-my.sharepoint.com/:w:/g/personal/joao_vieira75_aluno_unip_br/EXikynN4GyZIkhTWs8CUuK8BK8ApoRWmykvJNajCrVFXSQ?e=dMWA0k)
+- [DoR e Dod](./docs/DoR%20e%20DoD.md)
+- [Manual de Usuário]("#")
+- [Diagramas - Arquivo Astah](./docs/CasoDeUsoPIM.asta)
+
+
+## 👥 Integrantes <a id="integrantes"></a>
+
+- [Thor de Oliveira Morciani - G96DFD3](https://github.com/ThorMorciani)
+- [Caio Henrique Barbosa Santos - G976690](https://github.com/CaioHennrique)
+- [Daniel Fagundes da Mota Filho - G97BJA0](https://github.com/DANFAGUNDES0)
+- [Murilo Câmara da Silva – G9843G0](https://github.com/MuriloCSilva)
+- [Joel Rodrigues Pereira - R0507H0](https://github.com/JoelRP00)
+- [João Pedro Costa Vieira - G956HJ7](https://github.com/JoaoPcvv)
+
+
+
